@@ -1,2 +1,2 @@
 # tic-tac-
-games 
+IT IS A BASICALLY GAME USING PYTHON AND 
